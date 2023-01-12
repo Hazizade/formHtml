@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+table {
+    margin: auto;
+    top: 50%;
+    left: 50%;
+    border: 3px solid black;
+    display: block;
+    width: 200px;
+
+
+
+}
+
+.div1 {
+    padding: 25%;
+    border: 3px solid black;
+    display: block;
+    background-color: blue;
+
+}
+
+input {
+    margin-bottom: 30%;
+    
+
+}
+
+table {
+    background-color: white ;
+}
+
+
+td{
+    padding: 15px;
+}
